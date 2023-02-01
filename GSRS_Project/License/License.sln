@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSRS.License.webapi", "GSRS.License.webapi\GSRS.License.webapi.csproj", "{C6AD4AF3-9C5A-4FEA-B9C6-9FB5311AAC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSRS.License.Infrastructure", "GSRS.License.Infrastructure\GSRS.License.Infrastructure.csproj", "{DE316405-CEAF-4B3A-AFE9-785DE95E8356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSRS.License.BusinessService", "GSRS.License.BusinessService\GSRS.License.BusinessService.csproj", "{966E6186-E8A2-44C0-83DD-3B340425C403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSRS.Api", "GSRS.Api\GSRS.Api.csproj", "{30F57979-ABF3-4020-9974-AEDBCC0E83CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSRS.Services", "GSRS.Services\GSRS.Services.csproj", "{C5497290-640A-44AC-9014-959F793917EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6AD4AF3-9C5A-4FEA-B9C6-9FB5311AAC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AD4AF3-9C5A-4FEA-B9C6-9FB5311AAC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AD4AF3-9C5A-4FEA-B9C6-9FB5311AAC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AD4AF3-9C5A-4FEA-B9C6-9FB5311AAC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE316405-CEAF-4B3A-AFE9-785DE95E8356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE316405-CEAF-4B3A-AFE9-785DE95E8356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE316405-CEAF-4B3A-AFE9-785DE95E8356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE316405-CEAF-4B3A-AFE9-785DE95E8356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFB0E46-8D5B-4E41-9EB0-2FB50CB2C746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFB0E46-8D5B-4E41-9EB0-2FB50CB2C746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFB0E46-8D5B-4E41-9EB0-2FB50CB2C746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFB0E46-8D5B-4E41-9EB0-2FB50CB2C746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966E6186-E8A2-44C0-83DD-3B340425C403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966E6186-E8A2-44C0-83DD-3B340425C403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966E6186-E8A2-44C0-83DD-3B340425C403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966E6186-E8A2-44C0-83DD-3B340425C403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F57979-ABF3-4020-9974-AEDBCC0E83CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F57979-ABF3-4020-9974-AEDBCC0E83CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F57979-ABF3-4020-9974-AEDBCC0E83CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F57979-ABF3-4020-9974-AEDBCC0E83CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5497290-640A-44AC-9014-959F793917EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5497290-640A-44AC-9014-959F793917EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5497290-640A-44AC-9014-959F793917EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5497290-640A-44AC-9014-959F793917EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

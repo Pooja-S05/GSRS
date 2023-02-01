@@ -1,0 +1,14 @@
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\bin\Debug\net6.0\GSRS.License.Infrastructure.deps.json
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\bin\Debug\net6.0\GSRS.License.Infrastructure.runtimeconfig.json
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\bin\Debug\net6.0\GSRS.License.Infrastructure.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\bin\Debug\net6.0\GSRS.License.Infrastructure.pdb
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.AssemblyInfo.cs
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\refint\GSRS.License.Infrastructure.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.pdb
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\GSRS.License.Infrastructure.genruntimeconfig.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.Infrastructure\obj\Debug\net6.0\ref\GSRS.License.Infrastructure.dll

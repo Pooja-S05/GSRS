@@ -1,0 +1,14 @@
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\bin\Debug\net6.0\GSRS.License.BusinessService.deps.json
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\bin\Debug\net6.0\GSRS.License.BusinessService.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\bin\Debug\net6.0\GSRS.License.BusinessService.pdb
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.csproj.AssemblyReference.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.AssemblyInfoInputs.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.AssemblyInfo.cs
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\refint\GSRS.License.BusinessService.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.pdb
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\ref\GSRS.License.BusinessService.dll
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\bin\Debug\net6.0\GSRS.License.BusinessService.runtimeconfig.json
+C:\Users\pooja.sakthivel\Desktop\GSRS_Project\License\GSRS.License.BusinessService\obj\Debug\net6.0\GSRS.License.BusinessService.genruntimeconfig.cache
