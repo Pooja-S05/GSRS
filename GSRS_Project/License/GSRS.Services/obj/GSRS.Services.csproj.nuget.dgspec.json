@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj": {}
+    "C:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj": {
+    "C:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj",
+        "projectUniqueName": "C:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj",
         "projectName": "GSRS.Services",
-        "projectPath": "c:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj",
+        "projectPath": "C:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\GSRS.Services.csproj",
         "packagesPath": "C:\\Users\\pooja.sakthivel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\obj\\",
+        "outputPath": "C:\\Users\\pooja.sakthivel\\Desktop\\GSRS_Project\\License\\GSRS.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pooja.sakthivel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,6 +57,8 @@
               "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
             }

@@ -13,5 +13,5 @@ public partial class LicenseServerGroup:BaseModel
 
     public string? CountryIso { get; set; }
 
-    public virtual ICollection<LicenseServer> LicenseServers { get; } = new List<LicenseServer>();
+    
 }
